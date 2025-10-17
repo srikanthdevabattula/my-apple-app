@@ -1,3 +1,3 @@
 live demo
 
-https://sunil013.github.io/apple/
+https://myapp-sk1107.netlify.app/
